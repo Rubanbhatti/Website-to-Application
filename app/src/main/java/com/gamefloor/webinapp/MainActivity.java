@@ -89,7 +89,7 @@ public class MainActivity extends AppCompatActivity {
             });
 
             // Load the static website URL
-            String staticWebsiteURL = "https://google.com/"; // Replace with your desired URL
+            String staticWebsiteURL = "https://portfolio-ruban.000webhostapp.com/#"; // Replace with your desired URL
             webView.loadUrl(staticWebsiteURL);
         }
     }
