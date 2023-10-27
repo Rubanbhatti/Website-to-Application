@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "155796249071",
+    "project_id": "webinapp-b93dc",
+    "storage_bucket": "webinapp-b93dc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:155796249071:android:dacea1f4fac9d86a4efe1a",
+        "android_client_info": {
+          "package_name": "com.gamefloor.webinapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA7uiuE0XWBmUnPa8Whe1A63m8xuMDVypg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
